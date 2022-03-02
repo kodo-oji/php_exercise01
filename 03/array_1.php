@@ -1,4 +1,3 @@
-
 <?php
 
 $countries = ['Japan', 'America', 'China'];

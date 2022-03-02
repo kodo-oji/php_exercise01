@@ -1,4 +1,3 @@
-
 <?php
 
 $score_math = 15;
